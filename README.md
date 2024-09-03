@@ -7,6 +7,9 @@
 
 ## Summary
 
+When running your game inside Unity Editor, just press **J** key to pause the Editor. Continue pressing it to stepping through.
+
+This is useful to debug your game one frame at time.
 
 ## Installation
 
